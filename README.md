@@ -4,7 +4,7 @@
 
 >![Banner](banner.png)
 
-<!-- ### > **[⬇️ Download for Windows](https://github.com/K3rnel-Dev/MacroBuilder/releases/download/Build/MacroBuilder.exe)**   -->
+### > **[⬇️ Download for Windows](https://github.com/K3rnel-Dev/MacroBuilder/releases/download/Build/MacroBuilder.exe)**   -->
 
 # 📕 Small-About
 
